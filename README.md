@@ -27,10 +27,6 @@
 🐈 [GitHub](https://github.com/scriptknightdev)
 
 
-## Community of IT Experts
-
-👾 [Discord](https://discord.gg/FW5MJVCXcw)
-
 ## My Badges
 
 <a href="https://app.daily.dev/cloudmagedev"><img src="https://api.daily.dev/devcards/v2/veJIVXJxkvWDZf9nDBkuy.png?type=wide&r=pkj" width="652" alt="Alexander Chizhkov's Dev Card"/></a>
