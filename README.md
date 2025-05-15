@@ -1,36 +1,30 @@
-Hi everyone,
+🧪 I’m Alexander Chizhkov, the engineer behind **ScriptKnight.dev** — where testing strategies are forged, automation frameworks come to life, and software quality is elevated through real-world experience.
 
-🧙‍♂️ I’m **Alexander Chizhkov**, the engineer behind **Cloud Mage** — where DevOps spells are cast, cloud-native architecture is conjured, and complex systems are tamed with real-world experience.
+✨ With hands-on experience as a **QA Engineer**, **Automation Specialist**, and **Quality Consultant**, I've helped teams deliver robust, high-quality software using Selenium, Cypress, API testing, and modern CI/CD pipelines.
 
-✨ With hands-on experience as a **DevOps Engineer**, **Cloud Consultant**, and **Site Reliability Engineer (SRE)**, I've helped teams architect scalable, resilient infrastructure using **Kubernetes**, **Terraform**, **Docker**, and modern **CI/CD pipelines**.
+🧪 I created **ScriptKnight.dev** to demystify the world of software testing. There you'll find practical, battle-tested tutorials on automated testing frameworks, exploratory testing, performance validation, and quality engineering practices — all built for real production challenges, not just sample apps.
 
-🧪 I created Cloud Mage to decode the mysteries of the cloud. Here, you'll find practical, battle-tested tutorials on **Infrastructure as Code**, **automation scripting**, **monitoring systems**, and **deployment pipelines** — built for real production environments, not lab experiments.
-
-🐳 Whether you're a developer, an ops wizard, or a hybrid of both, my mission is to equip you with the tools, spells, and strategies to master the cloud realm.
-
-⚡ Join me on the quest to turn chaotic infrastructure into elegant, reliable systems — one line of YAML at a time.
-
-Let's engineer some magic together!
+🔎 Whether you're a developer seeking testing mastery, a manual tester moving into automation, or an SDET sharpening your skills — my mission is to equip you with the tools, frameworks, and techniques to ensure software excellence.
 
 ## Follow Me
 
-🐦 [X / Twitter](https://x.com/cloudmagedev)
+🐦 [X / Twitter](https://x.com/scriptknightdev)
 <br/>
-🎨 [Instagram](https://www.instagram.com/cloudmage.dev/)
+🎨 [Instagram](https://www.instagram.com/scriptknightdev/)
 <br/>
-🐘 [Mastodon](https://mastodon.social/@cloudmage)
+🐘 [Mastodon](https://mastodon.social/@scriptknightdev)
 <br/>
-🧵 [Threads](https://www.threads.net/@cloudmage.dev)
+🧵 [Threads](https://www.threads.net/@scriptknightdev)
 <br/>
-🎸 [Facebook](https://www.facebook.com/cloudmagedev/)
+🎸 [Facebook](https://www.facebook.com/scriptknightdev/)
 <br/>
-🧊 [Bluesky](https://bsky.app/profile/cloudmage.dev)
+🧊 [Bluesky](https://bsky.app/profile/scriptknightdev)
 <br/>
-💻 [LinkedIn](https://www.linkedin.com/in/cloudmage/)
+💻 [LinkedIn](https://www.linkedin.com/in/scriptknightdev/)
 <br/>
 📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)
 <br/>
-🐈 [GitHub](https://github.com/cloudmagedev)
+🐈 [GitHub](https://github.com/scriptknightdev)
 
 
 ## Community of IT Experts
