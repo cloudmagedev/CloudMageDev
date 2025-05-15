@@ -18,7 +18,7 @@
 <br/>
 🎸 [Facebook](https://www.facebook.com/scriptknightdev/)
 <br/>
-🧊 [Bluesky](https://bsky.app/profile/scriptknightdev)
+🧊 [Bluesky](https://bsky.app/profile/scriptknightdev.bsky.social)
 <br/>
 💻 [LinkedIn](https://www.linkedin.com/in/scriptknightdev/)
 <br/>
